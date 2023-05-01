@@ -1,6 +1,6 @@
 [
     {
-        "chefId": 1,
+        "chefId": "1",
         "chefpictureCoverLink": "https://example.com/chef1-cover.jpg",
         "chefpictureProfileLink": "https://example.com/chef1-profile.jpg",
         "chefName": "Alice Smith",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "chefId": 2,
+        "chefId": "2",
         "chefpictureCoverLink": "https://example.com/chef2-cover.jpg",
         "chefpictureProfileLink": "https://example.com/chef2-profile.jpg",
         "chefName": "Bob Johnson",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "chefId": 3,
+        "chefId": "3",
         "chefpictureCoverLink": "https://example.com/chef3-cover.jpg",
         "chefpictureProfileLink": "https://example.com/chef3-profile.jpg",
         "chefName": "Carla Rodriguez",
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "chefId": 4,
+        "chefId": "4",
         "chefpictureCoverLink": "https://example.com/chef4-cover.jpg",
         "chefpictureProfileLink": "https://example.com/chef4-profile.jpg",
         "chefName": "David Lee",
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "chefId": 5,
+        "chefId": "5",
         "chefpictureCoverLink": "https://example.com/chef5-cover.jpg",
         "chefpictureProfileLink": "https://example.com/chef5-profile.jpg",
         "chefName": "Emily Chen",
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "chefId": 6,
+        "chefId": "6",
         "chefpictureCoverLink": "https://example.com/chef6-cover.jpg",
         "chefpictureProfileLink": "https://example.com/chef6-profile.jpg",
         "chefName": "Frank Martinez",

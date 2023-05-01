@@ -2,7 +2,7 @@
     {
         "chefId": "1",
         "chefpictureCoverLink": "https://example.com/chef1-cover.jpg",
-        "chefpictureProfileLink": "https://example.com/chef1-profile.jpg",
+        "chefpictureProfileLink": "https://img.theculturetrip.com/450x/smart/wp-content/uploads/2018/01/matt-moran--mattmelrosewikimedia-commons.jpg",
         "chefName": "Alice Smith",
         "chefDescription": "Alice Smith is a renowned chef with over 20 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and has won numerous awards for her innovative dishes.",
         "likes": 1000,
@@ -59,7 +59,7 @@
     {
         "chefId": "2",
         "chefpictureCoverLink": "https://example.com/chef2-cover.jpg",
-        "chefpictureProfileLink": "https://example.com/chef2-profile.jpg",
+        "chefpictureProfileLink": "https://www.celebrityspeakers.com.au/content/uploads/2021/02/MORAN-Matt-PIC-website-768x575.jpg",
         "chefName": "Bob Johnson",
         "chefDescription": "Bob Johnson is a celebrity chef and television personality. He has written several cookbooks and has appeared on numerous cooking shows. He is known for his expertise in fusion cuisine and his use of unusual ingredients.",
         "likes": 500,
@@ -116,7 +116,7 @@
     {
         "chefId": "3",
         "chefpictureCoverLink": "https://example.com/chef3-cover.jpg",
-        "chefpictureProfileLink": "https://example.com/chef3-profile.jpg",
+        "chefpictureProfileLink": "https://static01.nyt.com/newsgraphics/2019/07/08/chefs/assets/images/square_bailey-320_x2.jpg",
         "chefName": "Carla Rodriguez",
         "chefDescription": "Carla Rodriguez is a rising star in the culinary world. She trained at some of the best culinary schools in Europe and has worked in Michelin-starred restaurants. She is known for her elegant and sophisticated dishes.",
         "likes": 250,
@@ -173,7 +173,7 @@
     {
         "chefId": "4",
         "chefpictureCoverLink": "https://example.com/chef4-cover.jpg",
-        "chefpictureProfileLink": "https://example.com/chef4-profile.jpg",
+        "chefpictureProfileLink": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_600,q_60,w_600/host_phpSugVR0",
         "chefName": "David Lee",
         "chefDescription": "David Lee is a master of Asian cuisine. He has traveled extensively throughout Asia to learn about the different cooking techniques and ingredients used in the region. He is known for his innovative take on traditional Asian dishes.",
         "likes": 750,
@@ -230,7 +230,7 @@
     {
         "chefId": "5",
         "chefpictureCoverLink": "https://example.com/chef5-cover.jpg",
-        "chefpictureProfileLink": "https://example.com/chef5-profile.jpg",
+        "chefpictureProfileLink": "https://www.dining-out.co.za/ftp/cp/SavagesNewChefProfile.jpg",
         "chefName": "Emily Chen",
         "chefDescription": "Emily Chen is a pastry chef with a passion for creating beautiful and delicious desserts. She trained in Paris and has worked in some of the best pastry shops in the world. She is known for her delicate and intricate pastry designs.",
         "likes": 400,
@@ -287,7 +287,7 @@
     {
         "chefId": "6",
         "chefpictureCoverLink": "https://example.com/chef6-cover.jpg",
-        "chefpictureProfileLink": "https://example.com/chef6-profile.jpg",
+        "chefpictureProfileLink": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,h_400,q_60,w_400/host_phpkh3S7l",
         "chefName": "Frank Martinez",
         "chefDescription": "Frank Martinez is a grill master with a passion for barbecue. He has won numerous awards for his barbecue recipes and has appeared on several cooking shows. He is known for his expertise in smoking and grilling meats.",
         "likes": 480,

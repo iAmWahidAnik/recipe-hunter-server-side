@@ -1,0 +1,344 @@
+[
+    {
+        "chefId": 1,
+        "chefpictureCoverLink": "https://example.com/chef1-cover.jpg",
+        "chefpictureProfileLink": "https://example.com/chef1-profile.jpg",
+        "chefName": "Alice Smith",
+        "chefDescription": "Alice Smith is a renowned chef with over 20 years of experience in the culinary industry. She has worked in some of the top restaurants in the world and has won numerous awards for her innovative dishes.",
+        "likes": 1000,
+        "numberOfRecipes": 50,
+        "yearsOfExperience": 20,
+        "recipes": [
+            {
+                "recipe_name": "Classic Hamburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Salt",
+                    "Pepper",
+                    "Burger buns",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Pickles",
+                    "Ketchup",
+                    "Mustard"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. 2. Combine ground beef, salt, and pepper in a large bowl. 3. Divide into 4 equal portions and shape into patties. 4. Grill patties for 3-4 minutes per side or until desired doneness is reached. 5. Toast burger buns on the grill. 6. Assemble burgers with lettuce, tomato, onion, pickles, ketchup, and mustard. 7. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Macaroni and Cheese",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. 2. Cook elbow macaroni according to package directions. 3. Melt butter in a saucepan over medium heat. 4. Add flour and stir for 1-2 minutes. 5. Gradually whisk in milk and bring to a simmer. 6. Add cheddar cheese, salt, and pepper and stir until cheese is melted. 7. Combine cooked macaroni and cheese sauce in a baking dish. 8. Bake for 20-25 minutes or until golden brown. 9. Let cool for a few minutes before serving.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": [
+                    "Chicken drumsticks",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken drumsticks in buttermilk for at least 1 hour. 2. In a shallow dish, combine flour, salt, pepper, and paprika. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a large skillet over medium-high heat. 5. Fry chicken drumsticks for 10-12 minutes per side or until golden brown and cooked through. 6. Drain on paper towels. 7. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefId": 2,
+        "chefpictureCoverLink": "https://example.com/chef2-cover.jpg",
+        "chefpictureProfileLink": "https://example.com/chef2-profile.jpg",
+        "chefName": "Bob Johnson",
+        "chefDescription": "Bob Johnson is a celebrity chef and television personality. He has written several cookbooks and has appeared on numerous cooking shows. He is known for his expertise in fusion cuisine and his use of unusual ingredients.",
+        "likes": 500,
+        "numberOfRecipes": 30,
+        "yearsOfExperience": 15,
+        "recipes": [
+            {
+                "recipe_name": "Classic Hamburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Salt",
+                    "Pepper",
+                    "Burger buns",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Pickles",
+                    "Ketchup",
+                    "Mustard"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. 2. Combine ground beef, salt, and pepper in a large bowl. 3. Divide into 4 equal portions and shape into patties. 4. Grill patties for 3-4 minutes per side or until desired doneness is reached. 5. Toast burger buns on the grill. 6. Assemble burgers with lettuce, tomato, onion, pickles, ketchup, and mustard. 7. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Macaroni and Cheese",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. 2. Cook elbow macaroni according to package directions. 3. Melt butter in a saucepan over medium heat. 4. Add flour and stir for 1-2 minutes. 5. Gradually whisk in milk and bring to a simmer. 6. Add cheddar cheese, salt, and pepper and stir until cheese is melted. 7. Combine cooked macaroni and cheese sauce in a baking dish. 8. Bake for 20-25 minutes or until golden brown. 9. Let cool for a few minutes before serving.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": [
+                    "Chicken drumsticks",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken drumsticks in buttermilk for at least 1 hour. 2. In a shallow dish, combine flour, salt, pepper, and paprika. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a large skillet over medium-high heat. 5. Fry chicken drumsticks for 10-12 minutes per side or until golden brown and cooked through. 6. Drain on paper towels. 7. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefId": 3,
+        "chefpictureCoverLink": "https://example.com/chef3-cover.jpg",
+        "chefpictureProfileLink": "https://example.com/chef3-profile.jpg",
+        "chefName": "Carla Rodriguez",
+        "chefDescription": "Carla Rodriguez is a rising star in the culinary world. She trained at some of the best culinary schools in Europe and has worked in Michelin-starred restaurants. She is known for her elegant and sophisticated dishes.",
+        "likes": 250,
+        "numberOfRecipes": 20,
+        "yearsOfExperience": 10,
+        "recipes": [
+            {
+                "recipe_name": "Classic Hamburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Salt",
+                    "Pepper",
+                    "Burger buns",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Pickles",
+                    "Ketchup",
+                    "Mustard"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. 2. Combine ground beef, salt, and pepper in a large bowl. 3. Divide into 4 equal portions and shape into patties. 4. Grill patties for 3-4 minutes per side or until desired doneness is reached. 5. Toast burger buns on the grill. 6. Assemble burgers with lettuce, tomato, onion, pickles, ketchup, and mustard. 7. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Macaroni and Cheese",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. 2. Cook elbow macaroni according to package directions. 3. Melt butter in a saucepan over medium heat. 4. Add flour and stir for 1-2 minutes. 5. Gradually whisk in milk and bring to a simmer. 6. Add cheddar cheese, salt, and pepper and stir until cheese is melted. 7. Combine cooked macaroni and cheese sauce in a baking dish. 8. Bake for 20-25 minutes or until golden brown. 9. Let cool for a few minutes before serving.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": [
+                    "Chicken drumsticks",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken drumsticks in buttermilk for at least 1 hour. 2. In a shallow dish, combine flour, salt, pepper, and paprika. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a large skillet over medium-high heat. 5. Fry chicken drumsticks for 10-12 minutes per side or until golden brown and cooked through. 6. Drain on paper towels. 7. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefId": 4,
+        "chefpictureCoverLink": "https://example.com/chef4-cover.jpg",
+        "chefpictureProfileLink": "https://example.com/chef4-profile.jpg",
+        "chefName": "David Lee",
+        "chefDescription": "David Lee is a master of Asian cuisine. He has traveled extensively throughout Asia to learn about the different cooking techniques and ingredients used in the region. He is known for his innovative take on traditional Asian dishes.",
+        "likes": 750,
+        "numberOfRecipes": 40,
+        "yearsOfExperience": 18,
+        "recipes": [
+            {
+                "recipe_name": "Classic Hamburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Salt",
+                    "Pepper",
+                    "Burger buns",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Pickles",
+                    "Ketchup",
+                    "Mustard"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. 2. Combine ground beef, salt, and pepper in a large bowl. 3. Divide into 4 equal portions and shape into patties. 4. Grill patties for 3-4 minutes per side or until desired doneness is reached. 5. Toast burger buns on the grill. 6. Assemble burgers with lettuce, tomato, onion, pickles, ketchup, and mustard. 7. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Macaroni and Cheese",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. 2. Cook elbow macaroni according to package directions. 3. Melt butter in a saucepan over medium heat. 4. Add flour and stir for 1-2 minutes. 5. Gradually whisk in milk and bring to a simmer. 6. Add cheddar cheese, salt, and pepper and stir until cheese is melted. 7. Combine cooked macaroni and cheese sauce in a baking dish. 8. Bake for 20-25 minutes or until golden brown. 9. Let cool for a few minutes before serving.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": [
+                    "Chicken drumsticks",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken drumsticks in buttermilk for at least 1 hour. 2. In a shallow dish, combine flour, salt, pepper, and paprika. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a large skillet over medium-high heat. 5. Fry chicken drumsticks for 10-12 minutes per side or until golden brown and cooked through. 6. Drain on paper towels. 7. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefId": 5,
+        "chefpictureCoverLink": "https://example.com/chef5-cover.jpg",
+        "chefpictureProfileLink": "https://example.com/chef5-profile.jpg",
+        "chefName": "Emily Chen",
+        "chefDescription": "Emily Chen is a pastry chef with a passion for creating beautiful and delicious desserts. She trained in Paris and has worked in some of the best pastry shops in the world. She is known for her delicate and intricate pastry designs.",
+        "likes": 400,
+        "numberOfRecipes": 25,
+        "yearsOfExperience": 12,
+        "recipes": [
+            {
+                "recipe_name": "Classic Hamburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Salt",
+                    "Pepper",
+                    "Burger buns",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Pickles",
+                    "Ketchup",
+                    "Mustard"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. 2. Combine ground beef, salt, and pepper in a large bowl. 3. Divide into 4 equal portions and shape into patties. 4. Grill patties for 3-4 minutes per side or until desired doneness is reached. 5. Toast burger buns on the grill. 6. Assemble burgers with lettuce, tomato, onion, pickles, ketchup, and mustard. 7. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Macaroni and Cheese",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. 2. Cook elbow macaroni according to package directions. 3. Melt butter in a saucepan over medium heat. 4. Add flour and stir for 1-2 minutes. 5. Gradually whisk in milk and bring to a simmer. 6. Add cheddar cheese, salt, and pepper and stir until cheese is melted. 7. Combine cooked macaroni and cheese sauce in a baking dish. 8. Bake for 20-25 minutes or until golden brown. 9. Let cool for a few minutes before serving.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": [
+                    "Chicken drumsticks",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken drumsticks in buttermilk for at least 1 hour. 2. In a shallow dish, combine flour, salt, pepper, and paprika. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a large skillet over medium-high heat. 5. Fry chicken drumsticks for 10-12 minutes per side or until golden brown and cooked through. 6. Drain on paper towels. 7. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chefId": 6,
+        "chefpictureCoverLink": "https://example.com/chef6-cover.jpg",
+        "chefpictureProfileLink": "https://example.com/chef6-profile.jpg",
+        "chefName": "Frank Martinez",
+        "chefDescription": "Frank Martinez is a grill master with a passion for barbecue. He has won numerous awards for his barbecue recipes and has appeared on several cooking shows. He is known for his expertise in smoking and grilling meats.",
+        "likes": 480,
+        "numberOfRecipes": 35,
+        "yearsOfExperience": 16,
+        "recipes": [
+            {
+                "recipe_name": "Classic Hamburger",
+                "ingredients": [
+                    "Ground beef",
+                    "Salt",
+                    "Pepper",
+                    "Burger buns",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Pickles",
+                    "Ketchup",
+                    "Mustard"
+                ],
+                "cooking_method": "1. Preheat grill to high heat. 2. Combine ground beef, salt, and pepper in a large bowl. 3. Divide into 4 equal portions and shape into patties. 4. Grill patties for 3-4 minutes per side or until desired doneness is reached. 5. Toast burger buns on the grill. 6. Assemble burgers with lettuce, tomato, onion, pickles, ketchup, and mustard. 7. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Macaroni and Cheese",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Butter",
+                    "Flour",
+                    "Milk",
+                    "Cheddar cheese",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 375°F. 2. Cook elbow macaroni according to package directions. 3. Melt butter in a saucepan over medium heat. 4. Add flour and stir for 1-2 minutes. 5. Gradually whisk in milk and bring to a simmer. 6. Add cheddar cheese, salt, and pepper and stir until cheese is melted. 7. Combine cooked macaroni and cheese sauce in a baking dish. 8. Bake for 20-25 minutes or until golden brown. 9. Let cool for a few minutes before serving.",
+                "rating": 4.2
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": [
+                    "Chicken drumsticks",
+                    "Buttermilk",
+                    "Flour",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Vegetable oil"
+                ],
+                "cooking_method": "1. Marinate chicken drumsticks in buttermilk for at least 1 hour. 2. In a shallow dish, combine flour, salt, pepper, and paprika. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat vegetable oil in a large skillet over medium-high heat. 5. Fry chicken drumsticks for 10-12 minutes per side or until golden brown and cooked through. 6. Drain on paper towels. 7. Serve immediately.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
